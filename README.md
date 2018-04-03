@@ -3,7 +3,8 @@ Optimization process for the design of optical filters (SFA) for a given sensor 
 
 This can be unzipped with the password "energy_2016"
 
-If using, please cite as follows (Thanks !):
+If using, please cite the paper "Energy balance in Spectral Filter Array camera design" (Thanks !). 
+The bibtex contents is as follows:
 
 @Article{Lapray2017,
 author="Lapray, Pierre-Jean
